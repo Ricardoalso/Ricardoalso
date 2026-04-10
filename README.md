@@ -71,14 +71,6 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚡ About Me
-
-- 🚒 Volunteer Firefighter with SDIS Lausanne-Epalinges
-- ♟️ Strategic board game enthusiast
-- 🏋️ Strength training & cycling
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-almeida-soares-49a929189)
